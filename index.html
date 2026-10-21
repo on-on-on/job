@@ -10,7 +10,7 @@
 <style>
 :root{
   --bg:#f4f6f9; --surface:#ffffff; --line:#dde2ea; --text:#142033; --muted:#5a6578;
-  --accent:#8a5f00; --hl:#ffdf7e; --hl-band:#ffe28f; --hl-text:#2a1f00; --chip:#edf0f5;
+  --accent:#1f3a68; --acc-soft:#e6ecf5; --oa:#0f5c5a; --oa-soft:#e2f1ee; --on-accent:#ffffff; --hl:#ffdf7e; --hl-band:#ffe28f; --hl-text:#2a1f00; --chip:#edf0f5;
   --urgent:#c0392b; --closed:#9aa3b2;
   --font:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;
   color-scheme:light;
@@ -21,14 +21,14 @@
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
     --bg:#0f1824; --surface:#152132; --line:#243246; --text:#eef2f7; --muted:#9aa8bb;
-    --accent:#ffcf5a; --hl:#ffcf5a; --hl-band:rgba(255,207,90,.32); --hl-text:#1a1300; --chip:#1c2a3e;
+    --accent:#9fbbec; --acc-soft:rgba(80,118,186,.28); --oa:#8fd8cc; --oa-soft:rgba(40,140,128,.28); --on-accent:#0f1824; --hl:#ffcf5a; --hl-band:rgba(255,207,90,.32); --hl-text:#1a1300; --chip:#1c2a3e;
     --urgent:#ff8a7a; --closed:#5d6a7e;
     color-scheme:dark;
   }
 }
 :root[data-theme="dark"]{
   --bg:#0f1824; --surface:#152132; --line:#243246; --text:#eef2f7; --muted:#9aa8bb;
-  --accent:#ffcf5a; --hl:#ffcf5a; --hl-band:rgba(255,207,90,.32); --hl-text:#1a1300; --chip:#1c2a3e;
+  --accent:#9fbbec; --acc-soft:rgba(80,118,186,.28); --oa:#8fd8cc; --oa-soft:rgba(40,140,128,.28); --on-accent:#0f1824; --hl:#ffcf5a; --hl-band:rgba(255,207,90,.32); --hl-text:#1a1300; --chip:#1c2a3e;
   --urgent:#ff8a7a; --closed:#5d6a7e;
   color-scheme:dark;
 }
@@ -71,14 +71,16 @@ select{padding:8px 12px;font-weight:500}
 input[type=search]{width:min(320px,100%);padding:10px 14px}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
 .chips button{font:inherit;font-size:15px;padding:7px 16px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--text);cursor:pointer}
-.chips button[aria-pressed="true"]{background:var(--hl);color:var(--hl-text);border-color:var(--hl);font-weight:700}
+.chips button[aria-pressed="true"]{background:var(--accent);color:var(--on-accent);border-color:var(--accent);font-weight:700}
 .note{font-size:13px;color:var(--muted);margin:0 0 24px;max-width:70em}
 
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;margin-bottom:56px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px;display:flex;flex-direction:column;gap:12px}
 .card.is-closed{opacity:.55}
 .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
-.tag{font-size:13px;background:var(--chip);border-radius:6px;padding:3px 9px;color:var(--muted)}
+.tag{font-size:13px;background:var(--chip);border-radius:6px;padding:3px 9px;color:var(--muted);font-weight:500}
+.tag.acc{background:var(--acc-soft);color:var(--accent)}
+.tag.oa{background:var(--oa-soft);color:var(--oa)}
 .dday{font-weight:700;font-size:22px;line-height:1;white-space:nowrap}
 .dday.urgent{color:var(--urgent)}
 .dday.closed{color:var(--closed);font-size:15px}
@@ -90,7 +92,7 @@ dt{color:var(--muted)} dd{margin:0}
 .certs{display:flex;flex-wrap:wrap;gap:6px}
 .cert{font-size:13px;border:1px solid var(--line);border-radius:999px;padding:2px 10px}
 .cert.ours{background:var(--hl);border-color:var(--hl);color:var(--hl-text);font-weight:500}
-.cert.req{background:var(--text);border-color:var(--text);color:var(--surface);font-weight:500}
+.cert.req{background:var(--accent);border-color:var(--accent);color:var(--on-accent);font-weight:500}
 .card a{margin-top:auto;padding-top:4px;font-size:15px;color:var(--accent);font-weight:500;text-decoration:none}
 .card a:hover{text-decoration:underline}
 .empty{grid-column:1/-1;padding:40px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:14px}
@@ -219,7 +221,7 @@ function renderList(){
     const closed = n !== null && n < 0;
     return `
     <article class="card${closed ? " is-closed" : ""}">
-      <div class="card-top"><span class="tag">${esc(j.cat)}</span>${ddayHTML(j.deadline)}</div>
+      <div class="card-top"><span class="tag ${j.cat === "사무" ? "oa" : "acc"}">${esc(j.cat)}</span>${ddayHTML(j.deadline)}</div>
       <h3>${esc(j.title)}</h3>
       <div class="company">${esc(j.company)}</div>
       <dl>
