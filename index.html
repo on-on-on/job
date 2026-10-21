@@ -117,7 +117,7 @@ footer p{margin:0 0 6px;max-width:70em}
   <section class="stats" aria-label="이번 주 요약">
     <div class="stat"><b id="sTotal">—</b><span>이번 주 공고</span></div>
     <div class="stat"><b id="sSoon">—</b><span>7일 안에 마감</span></div>
-    <div class="stat"><b id="sOurs">—</b><span>학원 과정 자격 우대</span></div>
+    <div class="stat"><b id="sOurs">—</b><span>자격증 우대 공고</span></div>
   </section>
 
   <section>
@@ -198,7 +198,7 @@ function render(){
   const jobs = b.jobs;
   $("sTotal").textContent = jobs.length;
   $("sSoon").textContent = jobs.filter(j => { const n = daysLeft(j.deadline); return n !== null && n >= 0 && n <= 7; }).length;
-  $("sOurs").textContent = jobs.filter(j => j.certs.some(isOurs)).length;
+  $("sOurs").textContent = jobs.filter(j => j.certs.length > 0).length;
   renderList();
 }
 
@@ -228,7 +228,7 @@ function renderList(){
         <dt>조건</dt><dd>${esc(j.cond)}</dd>
         <dt>마감</dt><dd>${j.deadline ? fmtDate(j.deadline) : "채용 시 마감"}</dd>
       </dl>
-      <div class="certs">${j.certs.map(c => `<span class="cert${isOurs(c) ? " ours" : ""}">${esc(c)}</span>`).join("")}</div>
+      <div class="certs">${j.certs.map(c => `<span class="cert">${esc(c)}</span>`).join("")}</div>
       <a href="${esc(j.url || SOURCE_URL)}" target="_blank" rel="noopener">고용24에서 원문 보기 ↗</a>
     </article>`;
   }).join("");
