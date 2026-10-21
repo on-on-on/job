@@ -10,6 +10,7 @@
         "type": "정규직 · 주5일 08:00~17:00",
         "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610120067&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -22,6 +23,7 @@
         "type": "정규직 · 주5일 09:00~17:00",
         "cond": "신입 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [
           "전산세무회계"
         ],
@@ -36,6 +38,7 @@
         "type": "정규직 · 주5일 09:00~18:00",
         "cond": "신입 · 대졸(2~3년) 이상",
         "deadline": "2026-11-05",
+        "required": [],
         "certs": [
           "회계 관련 자격증"
         ],
@@ -50,6 +53,7 @@
         "type": "정규직 · 주5일 09:00~18:00",
         "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [
           "TAT 2급",
           "전산세무 1급",
@@ -65,8 +69,11 @@
         "loc": "부산 동구",
         "pay": "월 216만~330만 원",
         "type": "정규직 · 주5일 09:30~18:00",
-        "cond": "경력 무관 · 학력 무관 · 전산세무 2급 필수",
+        "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [
+          "전산세무 2급"
+        ],
         "certs": [
           "전산세무 1급",
           "전산회계 1급",
@@ -81,8 +88,11 @@
         "loc": "부산 사상구",
         "pay": "월 215만~280만 원",
         "type": "정규직 · 주5일 08:30~17:30",
-        "cond": "경력 무관 · 학력 무관 · 전산회계 1급 필수",
+        "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [
+          "전산회계 1급"
+        ],
         "certs": [
           "전산세무회계"
         ],
@@ -95,8 +105,11 @@
         "loc": "부산 동구",
         "pay": "연 2,600만~2,800만 원",
         "type": "정규직 · 주5일 09:00~18:00",
-        "cond": "경력 무관 · 학력 무관 · 전산세무 2급 필수",
+        "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [
+          "전산세무 2급"
+        ],
         "certs": [
           "전산세무 1급",
           "전산회계 1급"
@@ -112,6 +125,7 @@
         "type": "정규직 · 주5일 08:30~17:00",
         "cond": "신입 · 학력 무관",
         "deadline": "2026-10-30",
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610210021&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -124,6 +138,7 @@
         "type": "정규직 · 주5일 08:00~17:30",
         "cond": "신입 · 대졸(2~3년)~대졸(4년)",
         "deadline": null,
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610060109&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -136,6 +151,7 @@
         "type": "정규직 · 주5일 09:00~18:00",
         "cond": "경력 무관 · 고졸~대졸(2~3년)",
         "deadline": "2026-10-26",
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610130003&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -148,6 +164,7 @@
         "type": "정규직 · 주5일 09:00~18:00",
         "cond": "경력 무관 · 학력 무관",
         "deadline": "2026-10-29",
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610150053&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -160,6 +177,7 @@
         "type": "정규직 · 주5일 08:00~17:00",
         "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610190031&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -172,6 +190,7 @@
         "type": "계약 3개월 후 정규직 전환 검토 · 주5일 08:30~18:00",
         "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610060135&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -184,6 +203,7 @@
         "type": "계약 3개월 후 정규직 전환 검토 · 주5일 09:00~18:00",
         "cond": "경력 무관 · 학력 무관 · 신입 가능",
         "deadline": null,
+        "required": [],
         "certs": [
           "컴활 2급"
         ],
@@ -196,8 +216,11 @@
         "loc": "부산 사하구",
         "pay": "월 230만 원 이상",
         "type": "계약 3개월 후 정규직 전환 검토 · 주5일 08:00~17:00",
-        "cond": "경력 무관 · 학력 무관 · 운전면허 2종보통 필수",
+        "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [
+          "운전면허 2종보통"
+        ],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610190009&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -210,6 +233,7 @@
         "type": "정규직 · 주5일 09:00~18:00",
         "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610140048&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -222,6 +246,7 @@
         "type": "정규직 · 주5일 09:00~18:00",
         "cond": "신입 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200007&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -234,6 +259,7 @@
         "type": "정규직 · 주5일 08:00~17:00",
         "cond": "경력 무관 · 학력 무관",
         "deadline": "2026-11-30",
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200046&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -246,6 +272,7 @@
         "type": "정규직 · 주5일 08:00~17:30",
         "cond": "경력 무관 · 학력 무관",
         "deadline": null,
+        "required": [],
         "certs": [],
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610190029&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
@@ -256,8 +283,11 @@
         "loc": "부산 사상구",
         "pay": "월 228만~236만 원 (상여 120% 별도)",
         "type": "계약 12개월 후 정규직 전환 검토 · 주5일 09:00~18:00",
-        "cond": "신입 · 학력 무관 · 전산·회계·OA 자격증 필수",
+        "cond": "신입 · 학력 무관",
         "deadline": "2026-11-06",
+        "required": [
+          "전산·회계·OA 관련 자격증"
+        ],
         "certs": [
           "워드프로세서",
           "전산회계 2급"
