@@ -1,0 +1,270 @@
+{
+  "2026-10-21": {
+    "range": "수집 기준 10. 21.(수) 고용24 검색 · 부산 중·서·동·사하·강서·사상구 · 신입/경력무관 · 상용직",
+    "jobs": [
+      {
+        "cat": "회계·세무반",
+        "title": "경리사무원 (수산물 제조·가공)",
+        "company": "주식회사명진에스에프",
+        "loc": "부산 서구",
+        "pay": "월 215만 원 이상",
+        "type": "정규직 · 주5일 08:00~17:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610120067&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "세무회계사무소 신입사원",
+        "company": "남형익세무회계사무소",
+        "loc": "부산 사상구",
+        "pay": "월 220만 원",
+        "type": "정규직 · 주5일 09:00~17:00",
+        "cond": "신입 · 학력 무관",
+        "deadline": null,
+        "certs": [
+          "전산세무회계"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610210011&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "회계사무실 신입 (기장·세무신고)",
+        "company": "박상준세무회계사무소",
+        "loc": "부산 사상구",
+        "pay": "연 2,700만 원 이상",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "신입 · 대졸(2~3년) 이상",
+        "deadline": "2026-11-05",
+        "certs": [
+          "회계 관련 자격증"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610210020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "세무사무소 사원 (신입·경력)",
+        "company": "세무그룹디택스",
+        "loc": "부산 동구",
+        "pay": "월 215만 원 이상",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "certs": [
+          "TAT 2급",
+          "전산세무 1급",
+          "전산세무 2급",
+          "전산회계 1급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610010032&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "세무회계사무원",
+        "company": "세무회계 청년들 김병주 세무회계",
+        "loc": "부산 동구",
+        "pay": "월 216만~330만 원",
+        "type": "정규직 · 주5일 09:30~18:00",
+        "cond": "경력 무관 · 학력 무관 · 전산세무 2급 필수",
+        "deadline": null,
+        "certs": [
+          "전산세무 1급",
+          "전산회계 1급",
+          "전산회계 2급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=KEC0052610130020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "세무대리 신규직원",
+        "company": "세무법인중추 북부산지점",
+        "loc": "부산 사상구",
+        "pay": "월 215만~280만 원",
+        "type": "정규직 · 주5일 08:30~17:30",
+        "cond": "경력 무관 · 학력 무관 · 전산회계 1급 필수",
+        "deadline": null,
+        "certs": [
+          "전산세무회계"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610010069&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "세무회계사무소 신입·경력",
+        "company": "성림세무회계사무소",
+        "loc": "부산 동구",
+        "pay": "연 2,600만~2,800만 원",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관 · 전산세무 2급 필수",
+        "deadline": null,
+        "certs": [
+          "전산세무 1급",
+          "전산회계 1급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042609290010&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "수산물유통 경리직원",
+        "company": "주식회사영우유통",
+        "loc": "부산 사하구",
+        "pay": "연 2,760만~3,000만 원",
+        "type": "정규직 · 주5일 08:30~17:00",
+        "cond": "신입 · 학력 무관",
+        "deadline": "2026-10-30",
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610210021&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "총무·경리 사무직",
+        "company": "(주)매일산업",
+        "loc": "부산 강서구",
+        "pay": "연 2,700만 원 이상",
+        "type": "정규직 · 주5일 08:00~17:30",
+        "cond": "신입 · 대졸(2~3년)~대졸(4년)",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610060109&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무반",
+        "title": "총무회계",
+        "company": "사단법인참아름다워라일터 (참터근로자지원센터)",
+        "loc": "부산 동구",
+        "pay": "월 250만 원 (상여 60% 별도)",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 고졸~대졸(2~3년)",
+        "deadline": "2026-10-26",
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610130003&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "영업지원·주문출하관리 사무원",
+        "company": "주식회사제이코",
+        "loc": "부산 동구",
+        "pay": "연 2,600만 원 이상",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": "2026-10-29",
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610150053&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "생산관리·사무관리 직원",
+        "company": "(주)부산해정식품",
+        "loc": "부산 강서구",
+        "pay": "월 270만~280만 원",
+        "type": "정규직 · 주5일 08:00~17:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610190031&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "매출관리 (발주처리·작업지시서)",
+        "company": "(주)대영에스엔에스",
+        "loc": "부산 사상구",
+        "pay": "연 2,850만~3,000만 원 (상여 20% 별도)",
+        "type": "계약 3개월 후 정규직 전환 검토 · 주5일 08:30~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610060135&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "관리팀 사무직원",
+        "company": "주식회사 부산참식품",
+        "loc": "부산 사하구",
+        "pay": "월 250만 원 이상",
+        "type": "계약 3개월 후 정규직 전환 검토 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관 · 신입 가능",
+        "deadline": null,
+        "certs": [
+          "컴활 2급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610120033&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "ERP 입출고 관리",
+        "company": "주식회사엘라켐",
+        "loc": "부산 사하구",
+        "pay": "월 230만 원 이상",
+        "type": "계약 3개월 후 정규직 전환 검토 · 주5일 08:00~17:00",
+        "cond": "경력 무관 · 학력 무관 · 운전면허 2종보통 필수",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610190009&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "물류사무원 (선용품 공급)",
+        "company": "(주)씨랜드마린서비스",
+        "loc": "부산 중구",
+        "pay": "연 3,000만 원 이상",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610140048&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "포워딩 사무직 (신입)",
+        "company": "(주)에스엘해운항공",
+        "loc": "부산 동구",
+        "pay": "연 3,240만 원 이상 (식대 포함)",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "신입 · 학력 무관",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200007&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "사무직 (자재 발주·재고관리)",
+        "company": "유신테크",
+        "loc": "부산 강서구",
+        "pay": "연 2,800만 원 이상",
+        "type": "정규직 · 주5일 08:00~17:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": "2026-11-30",
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200046&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "온라인쇼핑몰 관리 직원",
+        "company": "(주)영진수도상사",
+        "loc": "부산 사상구",
+        "pay": "월 240만 원 이상",
+        "type": "정규직 · 주5일 08:00~17:30",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610190029&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "OA반",
+        "title": "사무원 (행정·회계)",
+        "company": "호정사회적협동조합 호정직업재활원",
+        "loc": "부산 사상구",
+        "pay": "월 228만~236만 원 (상여 120% 별도)",
+        "type": "계약 12개월 후 정규직 전환 검토 · 주5일 09:00~18:00",
+        "cond": "신입 · 학력 무관 · 전산·회계·OA 자격증 필수",
+        "deadline": "2026-11-06",
+        "certs": [
+          "워드프로세서",
+          "전산회계 2급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610190076&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      }
+    ]
+  }
+}
