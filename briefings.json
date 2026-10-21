@@ -1,9 +1,8 @@
 {
   "2026-10-21": {
-    "range": "수집 기준 10. 21.(수) 고용24 검색 · 부산 중·서·동·사하·강서·사상구 · 신입/경력무관 · 상용직",
     "jobs": [
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "경리사무원 (수산물 제조·가공)",
         "company": "주식회사명진에스에프",
         "loc": "부산 서구",
@@ -15,7 +14,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610120067&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "세무회계사무소 신입사원",
         "company": "남형익세무회계사무소",
         "loc": "부산 사상구",
@@ -29,7 +28,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610210011&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "회계사무실 신입 (기장·세무신고)",
         "company": "박상준세무회계사무소",
         "loc": "부산 사상구",
@@ -43,7 +42,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610210020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "세무사무소 사원 (신입·경력)",
         "company": "세무그룹디택스",
         "loc": "부산 동구",
@@ -60,7 +59,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610010032&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "세무회계사무원",
         "company": "세무회계 청년들 김병주 세무회계",
         "loc": "부산 동구",
@@ -76,7 +75,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=KEC0052610130020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "세무대리 신규직원",
         "company": "세무법인중추 북부산지점",
         "loc": "부산 사상구",
@@ -90,7 +89,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610010069&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "세무회계사무소 신입·경력",
         "company": "성림세무회계사무소",
         "loc": "부산 동구",
@@ -105,7 +104,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042609290010&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "수산물유통 경리직원",
         "company": "주식회사영우유통",
         "loc": "부산 사하구",
@@ -117,7 +116,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610210021&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "총무·경리 사무직",
         "company": "(주)매일산업",
         "loc": "부산 강서구",
@@ -129,7 +128,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610060109&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "회계·세무반",
+        "cat": "회계·세무",
         "title": "총무회계",
         "company": "사단법인참아름다워라일터 (참터근로자지원센터)",
         "loc": "부산 동구",
@@ -141,7 +140,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610130003&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "영업지원·주문출하관리 사무원",
         "company": "주식회사제이코",
         "loc": "부산 동구",
@@ -153,7 +152,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610150053&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "생산관리·사무관리 직원",
         "company": "(주)부산해정식품",
         "loc": "부산 강서구",
@@ -165,7 +164,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610190031&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "매출관리 (발주처리·작업지시서)",
         "company": "(주)대영에스엔에스",
         "loc": "부산 사상구",
@@ -177,7 +176,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610060135&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "관리팀 사무직원",
         "company": "주식회사 부산참식품",
         "loc": "부산 사하구",
@@ -191,7 +190,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610120033&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "ERP 입출고 관리",
         "company": "주식회사엘라켐",
         "loc": "부산 사하구",
@@ -203,7 +202,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610190009&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "물류사무원 (선용품 공급)",
         "company": "(주)씨랜드마린서비스",
         "loc": "부산 중구",
@@ -215,7 +214,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610140048&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "포워딩 사무직 (신입)",
         "company": "(주)에스엘해운항공",
         "loc": "부산 동구",
@@ -227,7 +226,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200007&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "사무직 (자재 발주·재고관리)",
         "company": "유신테크",
         "loc": "부산 강서구",
@@ -239,7 +238,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200046&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "온라인쇼핑몰 관리 직원",
         "company": "(주)영진수도상사",
         "loc": "부산 사상구",
@@ -251,7 +250,7 @@
         "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610190029&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
       },
       {
-        "cat": "OA반",
+        "cat": "사무",
         "title": "사무원 (행정·회계)",
         "company": "호정사회적협동조합 호정직업재활원",
         "loc": "부산 사상구",

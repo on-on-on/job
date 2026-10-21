@@ -112,7 +112,6 @@ footer p{margin:0 0 6px;max-width:70em}
     <div class="issue">
       <label for="week">발행일</label>
       <select id="week"></select>
-      <span id="range"></span>
     </div>
   </section>
 
@@ -141,7 +140,7 @@ footer p{margin:0 0 6px;max-width:70em}
 /* 공고 데이터는 briefings.json 파일에서 불러옵니다 */
 let BRIEFINGS = {};
 
-const CATS = ["전체","회계·세무반","OA반"];
+const CATS = ["전체","회계·세무","사무"];
 const OURS = ["컴활","ITQ","전산회계","전산세무","GTQ","CAT","COS"];
 const SOURCE_URL = "https://www.work24.go.kr";
 const state = {week:null, cat:"전체", q:""};
@@ -197,7 +196,6 @@ function init(){
 
 function render(){
   const b = BRIEFINGS[state.week];
-  $("range").textContent = b.range;
   const jobs = b.jobs;
   $("sTotal").textContent = jobs.length;
   $("sSoon").textContent = jobs.filter(j => { const n = daysLeft(j.deadline); return n !== null && n >= 0 && n <= 7; }).length;
