@@ -1,4 +1,291 @@
 {
+  "2026-10-27": {
+    "jobs": [
+      {
+        "cat": "회계·세무",
+        "title": "세무회계사무소 신입사원",
+        "company": "남형익세무회계사무소",
+        "loc": "부산 사상구",
+        "pay": "월 220만 원",
+        "type": "정규직 · 주5일 09:00~17:00",
+        "cond": "신입 · 학력 무관",
+        "deadline": null,
+        "required": [],
+        "certs": [
+          "전산세무회계"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610210011&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "회계사무실 신입 (기장·세무신고)",
+        "company": "박상준세무회계사무소",
+        "loc": "부산 사상구",
+        "pay": "연 2,700만 원 이상",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "신입 · 대졸(2~3년) 이상",
+        "deadline": "2026-11-05",
+        "required": [],
+        "certs": [
+          "회계 관련 자격증"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610210020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "수산물유통 경리직원",
+        "company": "주식회사영우유통",
+        "loc": "부산 사하구",
+        "pay": "연 2,760만~3,000만 원",
+        "type": "정규직 · 주5일 08:30~17:00",
+        "cond": "신입 · 학력 무관",
+        "deadline": "2026-10-30",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610210021&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "제조업 경리사무원 (초보자 가능)",
+        "company": "영남금속",
+        "loc": "부산 사상구",
+        "pay": "월 280만 원 이상",
+        "type": "정규직 · 주5일 08:00~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": "2026-11-04",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200064&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "세무대리 신규직원",
+        "company": "세무법인중추 북부산지점",
+        "loc": "부산 사상구",
+        "pay": "월 215만~280만 원",
+        "type": "정규직 · 주5일 08:30~17:30",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": "2026-11-15",
+        "required": [
+          "전산회계 1급"
+        ],
+        "certs": [
+          "전산세무회계"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610010069&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "세무회계사무소 신입·경력",
+        "company": "성림세무회계사무소",
+        "loc": "부산 동구",
+        "pay": "연 2,600만~2,800만 원",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "required": [
+          "전산세무 2급"
+        ],
+        "certs": [
+          "전산세무 1급",
+          "전산회계 1급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042609290010&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "세무회계사무원",
+        "company": "세무회계 청년들 김병주 세무회계",
+        "loc": "부산 동구",
+        "pay": "월 216만~330만 원",
+        "type": "정규직 · 주5일 09:30~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "required": [
+          "전산세무 2급"
+        ],
+        "certs": [
+          "전산세무 1급",
+          "전산회계 1급",
+          "전산회계 2급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=KEC0052610130020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "경리 사무원 (매출매입·원천징수·부가세)",
+        "company": "(주)씨엔에스툴",
+        "loc": "부산 사상구",
+        "pay": "월 220만~250만 원",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "학력 무관",
+        "deadline": null,
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610150029&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "사무직 (경리) 신입",
+        "company": "남일종합식품산업사",
+        "loc": "부산 사하구",
+        "pay": "월 215만 원 이상",
+        "type": "계약직 · 주5일 08:30~17:30",
+        "cond": "신입 · 학력 무관",
+        "deadline": null,
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610210030&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "회계·세무",
+        "title": "경리·영업지원 사무",
+        "company": "(주)지비에스",
+        "loc": "부산 강서구",
+        "pay": "월 220만 원 이상 (식대 포함)",
+        "type": "정규직 · 주5일 08:30~17:30 · 수습 6개월",
+        "cond": "학력 무관",
+        "deadline": "2026-10-30",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610080005&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "영업지원·사무보조",
+        "company": "엠에스티솔루션 주식회사",
+        "loc": "부산 강서구",
+        "pay": "연 3,300만~3,500만 원",
+        "type": "정규직 · 주5일 08:30~18:00",
+        "cond": "학력 무관 · 이메일 지원",
+        "deadline": "2026-10-29",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610260013&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "영업지원·주문출하관리 사무원",
+        "company": "주식회사제이코",
+        "loc": "부산 동구",
+        "pay": "연 2,600만 원 이상",
+        "type": "정규직 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": "2026-10-29",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130042610150053&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "매출관리 (발주처리·작업지시서)",
+        "company": "(주)대영에스엔에스",
+        "loc": "부산 사상구",
+        "pay": "연 2,850만~3,000만 원 (상여 20% 별도)",
+        "type": "계약 3개월 후 정규직 전환 검토 · 주5일 08:30~18:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": null,
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610060135&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "관리팀 사무직원",
+        "company": "주식회사 부산참식품",
+        "loc": "부산 사하구",
+        "pay": "월 250만 원 이상",
+        "type": "계약 3개월 후 정규직 전환 검토 · 주5일 09:00~18:00",
+        "cond": "경력 무관 · 학력 무관 · 신입 가능",
+        "deadline": null,
+        "required": [],
+        "certs": [
+          "컴활 2급"
+        ],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130052610120033&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "사무직 (자재 발주·재고관리)",
+        "company": "유신테크",
+        "loc": "부산 강서구",
+        "pay": "연 2,800만 원 이상",
+        "type": "정규직 · 주5일 08:00~17:00",
+        "cond": "경력 무관 · 학력 무관",
+        "deadline": "2026-11-30",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610200046&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "영업관리 (전산·견적·발주)",
+        "company": "씨엔케이(CNK)",
+        "loc": "부산 사상구",
+        "pay": "연 2,800만 원 이상",
+        "type": "정규직 · 주5일 08:30~17:30",
+        "cond": "신입 · 학력 무관",
+        "deadline": null,
+        "required": [
+          "운전면허"
+        ],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610260045&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "납품관리·사무보조",
+        "company": "경진산업",
+        "loc": "부산 강서구",
+        "pay": "연 2,900만 원 이상",
+        "type": "정규직 · 주5일 08:30~18:00",
+        "cond": "학력 무관",
+        "deadline": "2026-11-30",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610260023&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "생산관리 사무 (출하 지원)",
+        "company": "태광금속(주)",
+        "loc": "부산 강서구",
+        "pay": "월 215만 원 이상",
+        "type": "정규직 · 주5일 08:00~17:00",
+        "cond": "학력 무관 · 문서·엑셀 작성 필수",
+        "deadline": "2026-11-12",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610230012&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "구매·자재조달 사무",
+        "company": "(주)오복전기",
+        "loc": "부산 강서구",
+        "pay": "연 3,200만 원 이상",
+        "type": "정규직 · 주5일 08:00~17:00",
+        "cond": "학력 무관",
+        "deadline": null,
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610230001&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+      },
+      {
+        "cat": "사무",
+        "title": "영업지원·업체관리",
+        "company": "(주)홍덕",
+        "loc": "부산 강서구",
+        "pay": "회사 내규",
+        "type": "정규직 · 08:30~18:30",
+        "cond": "경력 무관 · 대졸(2~3년)",
+        "deadline": "2026-11-25",
+        "required": [],
+        "certs": [],
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=55389843&infoTypeCd=CSI&infoTypeGroup=tb_workinfogubun"
+      }
+    ]
+  },
   "2026-10-21": {
     "jobs": [
       {
