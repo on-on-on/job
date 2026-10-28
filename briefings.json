@@ -65,14 +65,15 @@
         "pay": "월 215만~280만 원",
         "type": "정규직 · 주5일 08:30~17:30",
         "cond": "경력 무관 · 학력 무관",
-        "deadline": "2026-11-15",
+        "deadline": "2026-10-27",
         "required": [
           "전산회계 1급"
         ],
         "certs": [
           "전산세무회계"
         ],
-        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610010069&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K130232610010069&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet",
+        "closed": true
       },
       {
         "cat": "회계·세무",
@@ -100,7 +101,7 @@
         "pay": "월 216만~330만 원",
         "type": "정규직 · 주5일 09:30~18:00",
         "cond": "경력 무관 · 학력 무관",
-        "deadline": null,
+        "deadline": "2026-10-27",
         "required": [
           "전산세무 2급"
         ],
@@ -109,7 +110,8 @@
           "전산회계 1급",
           "전산회계 2급"
         ],
-        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=KEC0052610130020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet"
+        "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=KEC0052610130020&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet",
+        "closed": true
       },
       {
         "cat": "회계·세무",
